@@ -30,38 +30,38 @@ noBtn.addEventListener('click',()=>{
         yesBtn.style.padding ='50px'
     }else if(clickCount === 6){
         noBtn.textContent='You will regret this!'
-        yesBtn.style.padding ='60px'
+        yesBtn.style.padding ='55px'
     }else if(clickCount === 7){
         noBtn.textContent='Give it another thought!'
-        yesBtn.style.padding ='70px'
+        yesBtn.style.padding ='60px'
          yesBtn.style.fontSize = '2.5rem'
     }else if(clickCount === 8){
         noBtn.textContent='Are you absolutely certain?'
-        yesBtn.style.padding ='80px'
+        yesBtn.style.padding ='65px'
     }else if(clickCount === 9){
         noBtn.textContent='This could be a mistake!'
-        yesBtn.style.padding ='90px'
+        yesBtn.style.padding ='70px'
     }else if(clickCount === 10){
         noBtn.textContent='Have a heart!'
-        yesBtn.style.padding ='100px'
+        yesBtn.style.padding ='80px'
          yesBtn.style.fontSize = '3.5rem'
     }else if(clickCount === 11){
         noBtn.textContent='Don\'t be so cold !'
-        yesBtn.style.padding ='110px'
+        yesBtn.style.padding ='85px'
     }else if(clickCount === 12){
         noBtn.textContent='Change of heart?'
-        yesBtn.style.padding ='120px'
+        yesBtn.style.padding ='90px'
          yesBtn.style.fontSize = '4rem'
     }else if(clickCount === 13){
         noBtn.textContent='Wouldn\'t you reconsider?'
-        yesBtn.style.padding ='130px'
+        yesBtn.style.padding ='95px'
     }else if(clickCount === 14){
         noBtn.textContent='Is that your final answer?'
-        yesBtn.style.padding ='140px'
+        yesBtn.style.padding ='100px'
          yesBtn.style.fontSize = '4.5rem'
     }else if(clickCount === 15){
         noBtn.textContent='You\'re breaking my heart :('
-        yesBtn.style.padding ='150px'
+        yesBtn.style.padding ='110px'
     }
 })
 // noBtn.addEventListener('click',()=>{
