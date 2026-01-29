@@ -30,7 +30,7 @@ div{
     background-color: brown;
     color: white;
     padding: 10px;
-    border: 2px solid green;
+    border: 2px solid  brown;
     border-radius: 5px;
     /* font-size: 200%; */
 }
@@ -39,7 +39,7 @@ div{
     color: whitesmoke;
     padding: 10px;
     background-color: rgb(252, 8, 150);
-    border: 2px solid red;
+    border: 2px solid pink;
     border-radius: 5px;
 }
 

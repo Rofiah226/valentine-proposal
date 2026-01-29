@@ -58,11 +58,11 @@ noBtn.addEventListener('click',()=>{
         yesBtn.style.padding ='95px'
     }else if(clickCount === 14){
         noBtn.textContent='Is that your final answer?'
-        yesBtn.style.padding ='100px'
+        // yesBtn.style.padding ='100px'
          yesBtn.style.fontSize = '4.5rem'
     }else if(clickCount === 15){
         noBtn.textContent='You\'re breaking my heart :('
-        yesBtn.style.padding ='110px'
+        // yesBtn.style.padding ='110px'
     }
 })
 // noBtn.addEventListener('click',()=>{
