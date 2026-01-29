@@ -54,4 +54,8 @@ div{
     #two-teddies{
         height: 200px;
     }
+
+    #yes-Btn{
+        max-width: 80px;
+    }
 }
