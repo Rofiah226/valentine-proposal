@@ -66,6 +66,7 @@ noBtn.addEventListener("click", () => {
     // yesBtn.style.padding ='110px'
   } else if (clickCount === 16) {
     noBtn.style.color = "red";
+    noBtn.style.backgroundColor='white'
   }
 });
 // noBtn.addEventListener('click',()=>{
