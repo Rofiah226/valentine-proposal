@@ -17,7 +17,7 @@ noBtn.addEventListener('click',()=>{
     }else if (clickCount === 2){
         noBtn.textContent='Really sure?'
         yesBtn.style.padding ='20px'
-        paragraph.style.color='red'
+        // paragraph.style.color='red'
     }else if (clickCount === 3){
         noBtn.textContent='Think again!'
         yesBtn.style.padding ='30px'
